@@ -1,7 +1,4 @@
-# python_regex
-
-
-**Quick Cheat Sheet for Python Regular Expressions**
+# Quick Cheat Sheet for Python Regular Expressions
 
 ^        Matches the beginning of a line
 
